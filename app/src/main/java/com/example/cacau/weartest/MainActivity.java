@@ -26,7 +26,7 @@ public class MainActivity extends Activity  {
                 mButton.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        mButton.setText("finally did it");
+                        mButton.setText("github ");
                         mTextView.setText("information.");
                     }
                 });
